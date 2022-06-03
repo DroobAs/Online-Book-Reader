@@ -1,0 +1,8 @@
+D:\Education\Eng. Mostafa saad\My Projects\OOP Console Projects\Online Book Reader\bin\Debug\Online Book Reader.exe.config
+D:\Education\Eng. Mostafa saad\My Projects\OOP Console Projects\Online Book Reader\bin\Debug\Online Book Reader.exe
+D:\Education\Eng. Mostafa saad\My Projects\OOP Console Projects\Online Book Reader\bin\Debug\Online Book Reader.pdb
+D:\Education\Eng. Mostafa saad\My Projects\OOP Console Projects\Online Book Reader\obj\Debug\Online Book Reader.csproj.AssemblyReference.cache
+D:\Education\Eng. Mostafa saad\My Projects\OOP Console Projects\Online Book Reader\obj\Debug\Online Book Reader.csproj.CoreCompileInputs.cache
+D:\Education\Eng. Mostafa saad\My Projects\OOP Console Projects\Online Book Reader\obj\Debug\Online Book Reader.exe
+D:\Education\Eng. Mostafa saad\My Projects\OOP Console Projects\Online Book Reader\obj\Debug\Online Book Reader.pdb
+D:\Education\Eng. Mostafa saad\My Projects\OOP Console Projects\Online Book Reader\obj\Debug\Online Book Reader.csproj.SuggestedBindingRedirects.cache
